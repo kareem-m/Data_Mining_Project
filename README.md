@@ -8,7 +8,7 @@ A complete end-to-end data mining pipeline that analyzes the **Stack Overflow De
 
 | Name | GitHub |
 |------|--------|
-| Farah Hossam | [@FarahHossam126](https://github.com/FarahHossam126) |
+| [Member 1 Name] | [@FarahHossam126](https://github.com/FarahHossam126) |
 | [Member 2 Name] | [@kareem-m](https://github.com/kareem-m) |
 | [Member 3 Name] | [@username](https://github.com/username) |
 | [Member 4 Name] | [@username](https://github.com/username) |
